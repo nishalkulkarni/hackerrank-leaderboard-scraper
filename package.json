@@ -1,0 +1,22 @@
+{
+  "name": "hackerrank-leaderboard-scraper",
+  "version": "1.0.0",
+  "description": "A simple python script to download and combine results from multiple contest leaderboards on hackerrank.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishalkulkarni/hackerrank-leaderboard-scraper.git"
+  },
+  "author": "Nishal Kulkarni",
+  "license": "GNU GPL V2",
+  "bugs": {
+    "url": "https://github.com/nishalkulkarni/hackerrank-leaderboard-scraper/issues"
+  },
+  "homepage": "https://github.com/nishalkulkarni/hackerrank-leaderboard-scraper#readme",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
